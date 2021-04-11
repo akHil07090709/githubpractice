@@ -1,1 +1,1 @@
-This is a script page
+console.log("This is a script page");
